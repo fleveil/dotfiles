@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = fil.leveille@hotmail.com
+	name = felix leveille
